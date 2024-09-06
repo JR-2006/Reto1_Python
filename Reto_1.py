@@ -38,7 +38,7 @@ extraPanelExacto = math.ceil(extraNumPanel)
 print()
 
 #Extra "Resultados"
-print(f"Potencia generada por panel anualmente es: {extraPotenciaGeneradaDia} kWh")
-print(f"Potencia generada por panel al dia es: {extraPotenciaGeneradaAnual} kWh")
+print(f"Potencia generada por panel anualmente es: {extraPotenciaGeneradaAnual} kWh")
+print(f"Potencia generada por panel al dia es: {extraPotenciaGeneradaDia} kWh")
 print(f"Los paneles necesarios son: {extraNumPanel}")
 print(f"Paneles solares necesarios exactos son: {extraPanelExacto}")
